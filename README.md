@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
        👨‍💻 About Me 🔭 I'm currently working on Java & Python Projects, Android App Development, and Flutter Apps  I'm looking to collaborate on Open Source Projects, Mobile Apps, and AI-Based Applications 🤝 I'm looking for help with  Backend Development, and System Design 🌱 I'm currently learning Flutter, Java, Python, Firebase, Git & GitHub 💬 Ask me about Java, Python, Flutter, Android Development, Git, and GitHub**<br>- ⚡ Fun fact: I love building real-world apps and learning new technologies every day.
 
 
